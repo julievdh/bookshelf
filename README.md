@@ -1,8 +1,9 @@
-# julievdh.github.io
-
-Julie van der Hoop
-
-
 ## Bookshelf 
 
-this is a test
+Shape Up
+
+Upstream - Dan Heath 
+
+Managing Product = Managing Tension - Marc Abraham 
+
+
